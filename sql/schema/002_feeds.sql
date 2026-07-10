@@ -10,3 +10,5 @@ user_id UUID REFERENCES users(id) ON DELETE CASCADE NOT NULL
 
 -- +goose Down
 DROP TABLE feeds;
+
+
