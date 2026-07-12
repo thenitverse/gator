@@ -7,7 +7,7 @@ aggregate their posts on a schedule, and browse posts from feeds you follow.
 
 Before running gator, make sure you have installed:
 - [Go](https://go.dev/doc/install) (version 1.21 or later)
-- [PostgreSQL](https://www.postgresql.org/download/) (version XX or later)
+- [PostgreSQL](https://www.postgresql.org/download/) 
 
 ## Installation
 
