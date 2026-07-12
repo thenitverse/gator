@@ -4,10 +4,12 @@ import (
 	"context"
 	"database/sql"
 	"fmt"
-	"gator/internal/database"
+
 	"log"
 	"strconv"
 	"time"
+
+	"github.com/thenitverse/gator/internal/database"
 
 	"github.com/google/uuid"
 	"github.com/lib/pq"

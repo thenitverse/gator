@@ -3,7 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
-	"gator/internal/database"
+
+	"github.com/thenitverse/gator/internal/database"
 )
 
 func handlerUnfollow(s *state, cmd command, user database.User) error {
